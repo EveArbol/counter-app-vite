@@ -1,3 +1,3 @@
 # Counter-App-Vite
-React practice
+React practice + Testing practice
 
